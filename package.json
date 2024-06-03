@@ -2,7 +2,7 @@
   "name": "tailwindcss-practice",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://atrigan23.github.io/CES-Website-P2/",
+  "homepage": "https://atrigan23.github.io/CES-Website-P2",
   "type": "module",
   "scripts": {
     "dev": "vite",
